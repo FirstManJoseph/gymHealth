@@ -247,3 +247,14 @@ header .navbar {
   text-decoration: none;
   display: block;
 }
+
+
+.welcomeMessage {
+  position: absolute;
+}
+
+#greetingMessage {
+  position: absolute;
+  margin-top: -5px;
+}
+
