@@ -18,6 +18,11 @@ window.onclick = function (event) {
     }
   }
 };
+// ===================================================
+function freeTrial() {
+  alert('Try our Free gym for 2 hours.');
+}
+// ===================================================
 
 // ===================================================
 
@@ -59,3 +64,5 @@ document.querySelector('#contactUs').addEventListener('click', function () {
   document.querySelector('.content').textContent = '';
   document.querySelector('.navbar').style.backgroundImage = 'url(gympic.jpeg)';
 });
+
+// ===================================================
